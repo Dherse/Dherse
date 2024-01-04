@@ -1,5 +1,7 @@
 ![Dherse's Stats](https://github-readme-stats.vercel.app/api?username=Dherse&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![Dherse's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dherse&theme=vue-dark&hide_border=true)
+
 ![Dherse's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dherse&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 - 🔭 I’m currently working on [Typst](https://github.com/typst/typst) for which you can sponsor me ❤️
